@@ -1,7 +1,7 @@
 # SQL-chinook
 Extensive data exploration in SQL using chinook database.
 
-Packages Used: SQL extension
+Packages Used: SQL extension.
 
 ## In this project, I have performed a few queries to answer my data driven business questions:
 
