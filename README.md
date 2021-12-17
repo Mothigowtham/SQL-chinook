@@ -3,7 +3,7 @@ Extensive data exploration in SQL using chinook database.
 
 Packages Used: SQL extension.
 
-## In this project, I have performed a few queries to answer my data driven business questions:
+## In this project, I have performed a few queries to answer the data driven business questions:
 
 1. Which albums sold the most tracks? Also mention the artists of those albums.
 2. List each employee's name and designation along with their manager's name and designation.
